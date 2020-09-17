@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">iTunes</string>
+    <string name="action_search">search</string>
+    <string name="item">Item</string>
+    <string name="collection_price">Collection price</string>
+    <string name="collection_price_label">Collection price</string>
+    <string name="collection_name">Collection name</string>
+    <string name="collection_name_label">Collection name :</string>
+    <string name="track_name">Track name</string>
+    <string name="track_name_label">Track name :</string>
+    <string name="artist_name">Artist name</string>
+    <string name="artist_name_label">Artist name :</string>
+    <string name="network_errro">Please check internet connection</string>
+    <string name="released_date">Released Date</string>
+    <string name="released_date_label">Released Date :</string>
+</resources>
